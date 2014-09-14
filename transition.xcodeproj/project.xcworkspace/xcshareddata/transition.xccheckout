@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FB7FE9F-6045-4F6B-9DCD-09DF4056E0CB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>transition</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9553E1D-9448-4B6A-83F0-790610A22F24</key>
+		<string>https://github.com/Monkshae/transition.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>transition.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9553E1D-9448-4B6A-83F0-790610A22F24</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Monkshae/transition.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9553E1D-9448-4B6A-83F0-790610A22F24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9553E1D-9448-4B6A-83F0-790610A22F24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>transition</string>
+		</dict>
+	</array>
+</dict>
+</plist>
